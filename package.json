@@ -13,5 +13,6 @@
 		"url": "https://idontknow/todo.git"
 	}
         ,
-        "author":"Jane Deo"
+        "author":"Jane Deo",
+        "discription":"A NodeJs Project"
 }
